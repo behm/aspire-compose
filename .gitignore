@@ -6,6 +6,10 @@
 # dotenv files
 .env
 
+# Aspire Publisher Output
+docker-compose/
+k8s/
+
 # User-specific files
 *.rsuser
 *.suo
